@@ -11,3 +11,4 @@
 
 <div><a target="_blank" href="https://500link.com/GHzezkGHA">Introducing NLWeb: Bringing conversational interfaces directly to the web</a></div>
 <div><a target="_blank" href="https://500link.com/GAw3vZdLE">Powering Natural Language Interfaces for the Web with NLWeb and Snowflake</a></div>
+<div><a target="_blank" href="https://500link.com/NavWgCgoH">The Making of NLWeb</a></div>
