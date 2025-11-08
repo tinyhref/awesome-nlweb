@@ -7,8 +7,3 @@
 
 <img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
 
-<h3>NLWeb Stories</h3>
-
-<div><a target="_blank" href="https://tinyhref.com/GHzezkGHA">Introducing NLWeb: Bringing conversational interfaces directly to the web</a></div>
-<div><a target="_blank" href="https://tinyhref.com/GAw3vZdLE">Powering Natural Language Interfaces for the Web with NLWeb and Snowflake</a></div>
-<div><a target="_blank" href="https://tinyhref.com/NavWgCgoH">The Making of NLWeb</a></div>
